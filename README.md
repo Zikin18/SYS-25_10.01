@@ -1,4 +1,4 @@
-# Домашнее задание к занятию 1 «Disaster recovery и Keepalived» Белобородов Юрий
+# Домашнее задание к занятию «Disaster recovery и Keepalived» Белобородов Юрий
 
 ### Цель задания
 В результате выполнения этого задания вы научитесь:
@@ -22,10 +22,10 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 Ответ:
-![router1showTrack.png](https://github.com/Zikin18/SYS-25_10.01/blob/master/1-1 router1showTrack.png)
-![router2showTrack.png](https://github.com/Zikin18/SYS-25_10.01/blob/master/1-2 router2showTrack.png)
-![disconnected.png](https://github.com/Zikin18/SYS-25_10.01/blob/master/1-3 disconnected.png)
-![S0-R1-disconnect-state.png](https://github.com/Zikin18/SYS-25_10.01/blob/master/1-4 S0-R1-disconnect-state.png)
+![router1showTrack.png](https://github.com/Zikin18/SYS-25_10.01/blob/master/1-1_router1showTrack.png)
+![router2showTrack.png](https://github.com/Zikin18/SYS-25_10.01/blob/master/1-2_router2showTrack.png)
+![disconnected.png](https://github.com/Zikin18/SYS-25_10.01/blob/master/1-3_disconnected.png)
+![S0-R1-disconnect-state.png](https://github.com/Zikin18/SYS-25_10.01/blob/master/1-4_S0-R1-disconnect-state.png)
 
 ![hsrp_advanced_updated.pkt](https://github.com/Zikin18/SYS-25_10.01/blob/master/hsrp_advanced_updated.pkt)
 
